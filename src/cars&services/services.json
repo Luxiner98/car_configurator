@@ -1,0 +1,34 @@
+{
+    "services":[
+        {
+            "id":1,
+            "service":"Zamjena ulja i filtera",
+            "price":500
+        },
+        {
+            "id":2,
+            "service":"Promjena pakni",
+            "price":450
+        },
+        {
+            "id":3,
+            "service":"Promjena guma",
+            "price":100
+        },
+        {
+            "id":4,
+            "service":"Servis klima uređaja",
+            "price":299
+        },
+        {
+            "id":5,
+            "service":"Balansiranje guma",
+            "price":50
+        },
+        {
+            "id":6,
+            "service":"Zamjena ulja u kočnicama",
+            "price":229
+        }
+    ]
+}
