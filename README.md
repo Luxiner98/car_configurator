@@ -2,7 +2,7 @@
 
 ### Step 1
 
-clone the repo with : **git clone https://github.com/Luxiner98/car_configurator**
+clone the repo with : **git clone https://github.com/Luxiner98/car_configurator.git**
 
 ## Step 2
 
